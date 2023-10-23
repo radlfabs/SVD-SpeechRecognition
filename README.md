@@ -1,3 +1,6 @@
+# SVD based Classifier for SpeechRecognition on AudioMNIST
+This repo hosts our implementation of the classical SVD-based MNIST digit classifier but applied to AudioMNIST. This project has been conducted during the final project in the course Applied Mathematics at University of Applied Science Cologne. 
+
 # Getting Started
 
 For testing purposes we provide a small subset of AudioMNIST. It has been randomly created with `dev_dataset.py` and 
