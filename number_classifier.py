@@ -146,4 +146,4 @@ def digit_classifier(k_list=None, size=0, path="data/", verbose=False):
 
 if __name__ == "__main__":
     print("__Spoken Digit Classifier by Philipp Schwarz & Fabian Rosenthal__")
-    digit_classifier(size=5, path="dev_data/")
+    digit_classifier(size=5, path="data/")
