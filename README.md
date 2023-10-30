@@ -13,7 +13,7 @@ This program was created with Python 3.10.4.
 
 1. Clone this repo.
 2. Create a new python venv and activate it.
-3. If you would like to perform a complete classification run, clone/download the data from (here)[https://github.com/soerenab/AudioMNIST/tree/3c9ed8cfcdee9de04c1f61658dbc0883b5b7d781/data].
+3. If you would like to perform a complete classification run, clone/download the data from [here](https://github.com/soerenab/AudioMNIST/tree/3c9ed8cfcdee9de04c1f61658dbc0883b5b7d781/data).
    Afterwards, copy the 'data' folder to your local ‘number classifier’ directory.
 4. Install required packages with `pip install -r requirements.txt`. 
 5. Consecutively, you can run the main program (`number classifier.py`) for testing or grading purposes from the 
